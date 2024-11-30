@@ -1,0 +1,14 @@
+{
+  "name": "intro-to-blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node blockchain.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
